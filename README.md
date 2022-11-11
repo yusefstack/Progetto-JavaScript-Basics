@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Questa basic web app è stata realizzata al fine di dimostrare l'assimilazione delle competenze acquisite durante lo studio del capitolo "Javascript Basics" su Start2Impact.
+Questa basic web app è stata realizzata al fine di dimostrare l'assimilazione delle competenze acquisite durante lo studio del capitolo "JavaScript Basics" su Start2Impact.
 
 ## Reperibilità
 
