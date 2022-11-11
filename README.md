@@ -8,6 +8,6 @@ Questa basic web app è stata realizzata al fine di dimostrare l'assimilazione d
 
 la web app è disponibile al seguente URL https://yusefstack.github.io/S2I-Progetto-JavaScript-Basics/
 
-## Authors
+## Autori
 
 https://github.com/yusefstack
