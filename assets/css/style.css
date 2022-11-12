@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.divisor-1 {
+    padding: 5em;
+}
+
+.container {
+    height: 80%;
+    width: 80%;
+    margin: 0 auto;
+   font-family: 'Press Start 2P', cursive;
+}
+
+.title {
+    color: rgb(165, 165, 165);
+    font-size: 45px;
+    text-align: center;
+}
+
+.changing-number {
+    font-size: 300px;
+    text-align: center;
+}
+
+.divisor-2 {
+    padding: 2em;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.minus-btn, .plus-btn {
+    border: 3px solid;
+    border-radius: 5px;
+    width: 25%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.minus-btn:hover, .plus-btn:hover {
+    width: 35%;
+}
+
+.minus-btn {
+    border-color: rgb(187, 187, 187);
+    color: rgb(187, 187, 187);
+}
+
+.plus-btn {
+    border-color: rgb(67, 37, 187);
+    background-color: rgb(97, 57, 255);
+    color: rgb(255, 255, 255);
+}
+
+.blue-title-part {
+    color: rgb(97, 57, 255);
+}
