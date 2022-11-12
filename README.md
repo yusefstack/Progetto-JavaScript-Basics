@@ -6,7 +6,7 @@ Questa basic web app è stata realizzata al fine di dimostrare l'assimilazione d
 
 ## Reperibilità
 
-la web app è disponibile al seguente URL https://yusefstack.github.io/S2I-Progetto-JavaScript-Basics/
+la web app è disponibile al seguente URL https://counterjsbasics.netlify.app
 
 ## Autori
 
