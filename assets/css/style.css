@@ -41,6 +41,8 @@
     width: 25%;
     text-align: center;
     cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1em;
 }
 
 .minus-btn:hover, .plus-btn:hover {
